@@ -1,5 +1,9 @@
 hello python
 
+<<<<<<< Updated upstream
 space
+=======
+how are you?
+>>>>>>> Stashed changes
 
 i am learning python
