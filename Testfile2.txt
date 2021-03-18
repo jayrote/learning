@@ -1,5 +1,0 @@
-hello python
-
-how are you?
-
-i am learning python
