@@ -27,3 +27,15 @@ print(y)
 z = 8 / 2
 
 print(z)
+
+# 5.
+
+p = 10
+
+q = 5
+
+r = 10
+
+s = p + q * r
+
+print(s)
