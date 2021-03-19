@@ -25,3 +25,11 @@ print(f" THE ANSWER OF MINUS IS = {y}")
 z = 10 / 2
 
 print(f" THE ANSWER OF DIVISION IS = {z}")
+
+# 5.
+
+user_input = input("enter your name : ")
+
+if user_input == (user_input[0] == "j"):
+
+    print("YES,YOU ARE JAY!!")
